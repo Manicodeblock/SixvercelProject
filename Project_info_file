@@ -1,0 +1,8 @@
+requirements.txt file
+---------------------------
+this file is for all the depandencies that have installed in our project
+steps to create these file
+go to terminal
+pip freeze > requirements.txt
+
+the above command is to create these file and we name it as requirements as .txt file
